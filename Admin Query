@@ -1,0 +1,7 @@
+INSERT INTO administradores (username, password, email, nivel_acceso) 
+VALUES (
+    'admin',                        -- Nombre de usuario (cambielo por el que desee)
+    SHA2('admin123', 256),          -- Contraseña cifrada con SHA-256 (cambielo por el que desee)
+    'admin@ecotech.cl',             -- Email (Obligatorio en tu sistema debe llevar @ecotech.cl)
+    3                               -- Nivel de acceso (3 = Acceso total)
+);
