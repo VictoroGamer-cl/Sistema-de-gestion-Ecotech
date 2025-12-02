@@ -1,7 +1,31 @@
-# Archivos de configuración secretos
+# --- Archivos de Configuración y Claves (CRÍTICO) ---
 config_db.py
 config_emb.py
 KEYS.py
 keys.py
+.env
+secret.py
+
+# --- Python ---
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# --- Entornos Virtuales (para que no subas librerías) ---
+venv/
+env/
+.venv/
+
+# --- IDEs y Editores (Configuraciones personales) ---
+.vscode/
+.idea/
+*.swp
+
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db
+
+# --- Distribución y Ejecutables (si usas PyInstaller) ---
+build/
+dist/
+*.spec
