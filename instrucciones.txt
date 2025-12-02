@@ -1,0 +1,9 @@
+ECOTECH - SISTEMA DE GESTIÓN
+1️⃣ instrucciones de instalación:
+   - ejecutar install.bat
+   - esto instalará todas las dependencias necesarias
+   - solo hacerlo una vez
+
+2️⃣ ejecutar main.py
+   - la aplicación se abrirá
+   - usar admin/admin para probar
