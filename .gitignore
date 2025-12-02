@@ -1,0 +1,7 @@
+# Archivos de configuración secretos
+config_db.py
+config_emb.py
+KEYS.py
+keys.py
+__pycache__/
+*.pyc
