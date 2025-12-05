@@ -63,7 +63,3 @@ El proyecto destaca por implementar patrones de diseño profesionales como **DAO
 
 ## 🔧 Instalación y Uso
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/EcoTech-ERP.git](https://github.com/tu-usuario/EcoTech-ERP.git)
-   cd EcoTech-ERP
